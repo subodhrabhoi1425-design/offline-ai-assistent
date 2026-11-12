@@ -100,9 +100,9 @@ pip install psutil pycaw comtypes sounddevice scipy pyttsx3 ollama SpeechRecogni
    Create a `user_profile.json` file in the root directory to personalize NEXA's system memory:
    ```json
    {
-       "name": "Subodh",
+       "name": [Your name],
        "main_project": "NEXA Terminal Assistant",
-       "projects_folder": "D:\\SUBODH\\projects",
+       "projects_folder": [your workspace location],
        "custom_notes": ["Prefers concise technical feedback", "Fast execution"]
    }
    ```
